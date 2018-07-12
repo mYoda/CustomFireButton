@@ -43,7 +43,7 @@ Now you can use CustomFireButton.
 ```
 MIT License
 
-Copyright (c) 2017 Anton Nechayuk
+Copyright (c) 2018 Anton Nechayuk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
